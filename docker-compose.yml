@@ -3,4 +3,4 @@ services:
   odierbambi:
     build: .
     environment:
-      CONFIG_FILE_URL: $CONFIG_FILE_URL
+      CONFIG_ENV_URL: $CONFIG_ENV_URL
